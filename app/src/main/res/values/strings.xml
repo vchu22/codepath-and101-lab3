@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SpotifyClone</string>
     <string name="email_or_username">Email or username</string>
+    <string name="password">Password</string>
 </resources>
