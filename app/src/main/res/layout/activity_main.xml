@@ -45,4 +45,14 @@
         app:layout_constraintTop_toBottomOf="@+id/username"
         android:hint="@string/password"/>
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:text="Log In"
+        app:layout_constraintEnd_toEndOf="@+id/password"
+        app:layout_constraintStart_toStartOf="@+id/password"
+        app:layout_constraintTop_toBottomOf="@+id/password"
+        />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
